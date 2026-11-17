@@ -1,0 +1,98 @@
+{
+  "status": "passed",
+  "python": "3.12.14",
+  "numpy": "2.5.4",
+  "scipy": "1.18.1",
+  "supplementary_independent_checks": {
+    "activity_policies_verified": 5,
+    "circle_outcomes_verified": 80,
+    "walking_scenarios_verified": 15,
+    "single_deletions_verified": 199
+  },
+  "archived_result_comparisons": {
+    "siting_budget_comparison.csv": {
+      "rows": 375,
+      "compared_cells": 9750
+    },
+    "siting_targets.csv": {
+      "rows": 1088,
+      "compared_cells": 16320
+    },
+    "siting_total_targets.csv": {
+      "rows": 952,
+      "compared_cells": 15232
+    },
+    "siting_ceiling.csv": {
+      "rows": 136,
+      "compared_cells": 1768
+    },
+    "siting_plan_sites.csv": {
+      "rows": 3822,
+      "compared_cells": 11466
+    },
+    "siting_pooled_distribution.csv": {
+      "rows": 4576,
+      "compared_cells": 36608
+    },
+    "siting_operator_directory_sensitivity.csv": {
+      "rows": 207,
+      "compared_cells": 1863
+    },
+    "activity_plans.csv": {
+      "rows": 5,
+      "compared_cells": 45
+    },
+    "activity_circles.csv": {
+      "rows": 80,
+      "compared_cells": 640
+    },
+    "walking_thresholds.csv": {
+      "rows": 15,
+      "compared_cells": 225
+    },
+    "meal_site_removals.csv": {
+      "rows": 200,
+      "compared_cells": 3000
+    }
+  },
+  "manuscript_checks": {
+    "status": "passed",
+    "origins": 5959,
+    "population": 40068.14016643407,
+    "meal_minimum_sites": {
+      "720": [
+        7,
+        3,
+        2
+      ],
+      "630": [
+        5,
+        3,
+        2
+      ],
+      "540": [
+        8,
+        4,
+        3
+      ]
+    },
+    "activity_population": {
+      "station_only": 2522.4938323239753,
+      "expanded": 2854.919472068745,
+      "min_7_circles": 2786.252975709965,
+      "min_8_circles": 2644.239845942817,
+      "circle_floors": 2636.8306791321693
+    },
+    "individual_exclusions": 199,
+    "citywide_supported_circles": 274,
+    "citywide_population": 265354.8176889833,
+    "citywide_percentages": {
+      "covered_H": 41.297234673285196,
+      "covered_M": 56.56018861295236,
+      "covered_S": 53.9514229807424,
+      "covered_G": 26.08330084764092,
+      "all_four": 5.736413754326216,
+      "missing_3_or_4": 41.6873142450218
+    }
+  }
+}

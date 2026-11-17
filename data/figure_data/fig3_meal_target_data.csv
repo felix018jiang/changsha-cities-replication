@@ -1,0 +1,4 @@
+menu,label,eligible,minimum_sites,gain_at_previous_budget,gain_at_minimum,threshold,initial_uncovered
+stations,Existing care stations,38,7,903.719683163,1006.364462368,978.222289898,19564.445797964
+operator,Stations + operator-listed restaurants,61,3,873.366019184,1056.353711249,978.222289898,19564.445797964
+all,Stations + all screened restaurants,199,2,682.090471618,1264.011560541,978.222289898,19564.445797964

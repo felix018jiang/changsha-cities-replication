@@ -1,0 +1,31 @@
+{
+  "station_reach_pairs": 1054,
+  "max_station_distance_disagreement_m": 4.996536517865025e-10,
+  "reproduced_station_gain_links": 911,
+  "reproduced_station_action_scores": 131,
+  "reproduced_station_circle_registry_function_limits": 64,
+  "forward_check_origins": 48,
+  "forward_venue_origin_pairs": 11520,
+  "forward_check_reachable_pairs": 75,
+  "unique_native_origins": 5959,
+  "case_count": 16,
+  "unique_all_candidates": 233,
+  "unique_offsite_candidates": 179,
+  "unique_existing_service_updates": 7,
+  "circle_site_pairs_outside_reachable": 106,
+  "circle_site_pairs_outside_strict_gain": 67,
+  "unique_multicircle_reachable_sites": 0,
+  "walk_distance_m": 720.0,
+  "changes_to_r18_by_registry": {
+    "strict": {
+      "M": 0,
+      "S": 3
+    },
+    "wide": {
+      "M": 0,
+      "S": 3
+    }
+  },
+  "sha256_r18_origins": "30556d5f5bf37a4c2e421d8e71f363435eebc9ad0e327344355a56731631cee7",
+  "sha256_offsite_ledger": "b388d6665a464ba4140c48a37761279709491538e6468e9fdec08ef2f1472059"
+}

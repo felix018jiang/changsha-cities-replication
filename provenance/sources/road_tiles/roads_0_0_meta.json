@@ -1,0 +1,10 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "retrieved_utc": "2026-11-03T06:42:26.341628+00:00",
+  "osm_timestamp": "2026-11-03T06:40:14Z",
+  "element_count": 1823,
+  "query_sha256": "9ef48810cb82793efed78b73dbbf5d11ee46c127ee1f53d08e69d64c3f8b1176",
+  "file_sha256": "5aa8e750294cb0a0077d38557802ed265ef0fbc8c7a8da2af9dfa4ed77eea1a6",
+  "elapsed_s": 71.3,
+  "bytes": 1946794
+}

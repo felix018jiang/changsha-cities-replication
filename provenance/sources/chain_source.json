@@ -1,0 +1,26 @@
+{
+  "retrieval_date": "2026-11-12",
+  "operator": "湖南霸王餐饮管理有限公司",
+  "pages": [
+    {
+      "url": "https://bawan.dexinmiaosheng.cn/official/store.html",
+      "sha256": "d675ffadfdce35cabe5cd8604c5f0795b587cfd0f773e6ef41549b20630caffd",
+      "directory_rows": 495
+    },
+    {
+      "url": "https://bawan.dexinmiaosheng.cn/official/store/p-495-495.html",
+      "sha256": "8e249d62d8d963605febc28eb5453995731b35b1209353c88973fa653a550f5f",
+      "directory_rows": 495
+    },
+    {
+      "url": "https://bawan.dexinmiaosheng.cn/official/store/p-990-495.html",
+      "sha256": "521441e98dfd991b6b091661961f1b42451c8a027d4c27ad8d7d70a5259bd510",
+      "directory_rows": 324
+    }
+  ],
+  "changsha_address_rows": 118,
+  "plausible_rows": 118,
+  "unique_records": 118,
+  "coordinate_reading": "Baidu component; datum inferred, only a mapped store point, not a surveyed public entrance.",
+  "eligibility": "Ordinary restaurant considered for introducing a senior meal service. No agreement or operating capacity verified."
+}

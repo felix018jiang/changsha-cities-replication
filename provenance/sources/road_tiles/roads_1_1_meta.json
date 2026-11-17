@@ -1,0 +1,18 @@
+{
+  "assembly": "four subtiles",
+  "subqueries": [
+    "roads_1_1_part00",
+    "roads_1_1_part01",
+    "roads_1_1_part10",
+    "roads_1_1_part11"
+  ],
+  "timestamps": [
+    "2026-11-03T06:56:29Z",
+    "2026-11-03T06:57:27Z",
+    "2026-11-03T06:58:29Z",
+    "2026-11-03T06:58:29Z"
+  ],
+  "element_count": 16862,
+  "file_sha256": "d62b9d1b110282afca4762fa4dd887040ae5fbbd25bdfa96c4aa9a56ef18bf14",
+  "bytes": 10658477
+}

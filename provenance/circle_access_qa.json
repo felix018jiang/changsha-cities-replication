@@ -1,0 +1,26 @@
+{
+  "circles_with_residential_support": 274,
+  "missing_denominator": 126,
+  "distinct_origins": 5938,
+  "weighted_population": 265354.8176889833,
+  "circles_zero_all_four": 212,
+  "circles_positive_all_four": 62,
+  "circles_lt_1_estimated_person": 11,
+  "original_572_pooled_percent": {
+    "covered_H": 41.297234673285196,
+    "covered_M": 56.806064163417304,
+    "covered_S": 53.9514229807424,
+    "covered_G": 26.08330084764092,
+    "all_four": 5.736413754326216,
+    "missing_3_or_4": 41.5752226249365
+  },
+  "new_566_pooled_percent": {
+    "covered_H": 41.29723467328519,
+    "covered_M": 56.56018861295236,
+    "covered_S": 53.95142298074241,
+    "covered_G": 26.083300847640924,
+    "all_four": 5.736413754326216,
+    "missing_3_or_4": 41.6873142450218
+  },
+  "multiple_deficit_pct": 68.93829435562411
+}

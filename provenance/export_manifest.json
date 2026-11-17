@@ -1,0 +1,660 @@
+[
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/routing_gains.csv",
+    "source_sha256": "41d70b0dc6b20fdde7bad13ff7a6a241cea4fa3582b81701ae1f8a8c5a10eee5",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/routing_gains.csv",
+    "public_sha256": "0dd40ef52d9fd016ff75860070a3446b13286c924919cd9d6feab08e32fea3a3",
+    "rows": 2774
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/routing_reachable_od.csv",
+    "source_sha256": "7b73ed43a2b7ef310eeb7f2142cc50fff739fdecc860aa61288e29e6e2d43ac3",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/routing_reachable_od.csv",
+    "public_sha256": "cb38818a2eb2d318977a771bc9b6d1efadf4be56d3d67b802273ab633b471ec0",
+    "rows": 3850
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/routing_baseline_delta.csv",
+    "source_sha256": "ca51f22ab3dc91435f8c53c1c60529e2a686dd3cd22fdd4a0aeb1c0212423b1e",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/routing_baseline_delta.csv",
+    "public_sha256": "f1ec534b587987f2389c5a4326761d4f773c97324df9c6ccd744707ab907215e",
+    "rows": 64
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/routing_origins.csv",
+    "source_sha256": "7f1c352a3628ec2bd67604882d22572baaaf1f009c83cdaf1407025dbc4bbe98",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/routing_origins.csv",
+    "public_sha256": "2bab73d1d5320ed2eb11a15d09dde3fc1b86d0901278a39d7d6c66c8f09259f0",
+    "rows": 11918
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/routing_candidates.csv",
+    "source_sha256": "6a39d56ff1ee92ac47711a5eb45cc618018a13c1a9e86fa9bfb34bf0c4c498a5",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/routing_candidates.csv",
+    "public_sha256": "4dae7802b9da053810c4d1e236e369c0f8a90059ba7ba341520417216d36c206",
+    "rows": 489
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_budget_comparison.csv",
+    "source_sha256": "0403b9004632ff221033122000e2c9e98d775e234aae5e8f7f3d7ed069c5f899",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_budget_comparison.csv",
+    "public_sha256": "cfc1bfbf23072589e1cf28aa1538a9e1a6f8db42d871b0ab51abe4130191c847",
+    "rows": 375
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_ceiling.csv",
+    "source_sha256": "ef37733e6625a6bc0afb6a877957fb694866917f16320635ce78577e319385a5",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_ceiling.csv",
+    "public_sha256": "b21ecf1312307dd59654c10a3b5c6b3de5da57f191e56861142ecdae31c773b5",
+    "rows": 136
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_pooled_distribution.csv",
+    "source_sha256": "1164afcd9e9fb54ec9366d08959084007e0115797d98dd5bbbdff7a18bd74f20",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_pooled_distribution.csv",
+    "public_sha256": "e5b3b95114ced9083d4893b5fd79742d0258fb815ae2822d9b46b2076b46a67e",
+    "rows": 4576
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_targets.csv",
+    "source_sha256": "880791697f5367079a2d22ff31c8803e2dba005146638c1704ce04799e8c6e66",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_targets.csv",
+    "public_sha256": "52dccda2b2917e0555635f28598c84b74f7dd52ab294541332ca5e708067b1ee",
+    "rows": 1088
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_total_targets.csv",
+    "source_sha256": "4fd27943aed27d37e5ec2d60f8516a7228888b9e8400a4fea770e7ea4e2d9556",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_total_targets.csv",
+    "public_sha256": "8700ea3228b03e83fedaa1b6d8ac79f5b2b6b495bfe236f7a0cc162ba1dd9246",
+    "rows": 952
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_operator_directory_sensitivity.csv",
+    "source_sha256": "df62a2519518f149b68018d4ad87ce336299c5bae6834b415c4533077d918e8c",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_operator_directory_sensitivity.csv",
+    "public_sha256": "df62a2519518f149b68018d4ad87ce336299c5bae6834b415c4533077d918e8c",
+    "rows": 207
+  },
+  {
+    "source": "outputs/长沙养老研究_第十九轮/tables/siting_plan_sites.csv",
+    "source_sha256": "520e459d90d132f5631b6cfe80afd6e7287a5976ec9e6f796123c5f08b94775e",
+    "public_path": "outputs/长沙养老研究_第十九轮/tables/siting_plan_sites.csv",
+    "public_sha256": "293b08fc1136231a3cb6376382fad5b68f61af50103ddf5831ed10f5c7941556",
+    "rows": 3822
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/tables/walking_thresholds.csv",
+    "source_sha256": "c51e872a65add7a9d8200955b18cb2e011cc6aa47abb74a28bb79fbd2a60c159",
+    "public_path": "outputs/Cities_补充计算与图表/tables/walking_thresholds.csv",
+    "public_sha256": "3d02e3525fac371da54ad995d6aabf1c73760284164e9068a7d359d3fc9f95b1",
+    "rows": 15
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/tables/meal_site_removals.csv",
+    "source_sha256": "916d902ad6ff24702e1308b1349364cb06660752fe237ff2508fb657086163c8",
+    "public_path": "outputs/Cities_补充计算与图表/tables/meal_site_removals.csv",
+    "public_sha256": "e8630f596bdd46da2f261e72da283a649482d3b1b366eabde053c1b8202b48dc",
+    "rows": 200
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/tables/activity_plans.csv",
+    "source_sha256": "211518a820918a249e314f3f51fb020539bfcca70226fef1578647987c18cc32",
+    "public_path": "outputs/Cities_补充计算与图表/tables/activity_plans.csv",
+    "public_sha256": "ab59099457ccd5c3a4bb92d1c500b028b44fb869b0b63616bc365b31528fbfb0",
+    "rows": 5
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/tables/activity_circles.csv",
+    "source_sha256": "94608e6c38f1720af555c6e0d86f72818c8e45a405bd8cd0a4b10dd574ae9cf9",
+    "public_path": "outputs/Cities_补充计算与图表/tables/activity_circles.csv",
+    "public_sha256": "94608e6c38f1720af555c6e0d86f72818c8e45a405bd8cd0a4b10dd574ae9cf9",
+    "rows": 80
+  },
+  {
+    "source": "work/round19/optimization/solve.py",
+    "source_sha256": "f182de3c8e4f0cdabfe716179a0c111b696c8cadf01cd83eb22ce975bb09eaa5",
+    "public_path": "work/round19/optimization/solve.py",
+    "public_sha256": "322fbd18ab6fd33099328d6cdb5749b6c49262aa9f1079206d8893f8caa722dd"
+  },
+  {
+    "source": "work/round19/optimization/solve.py",
+    "source_sha256": "f182de3c8e4f0cdabfe716179a0c111b696c8cadf01cd83eb22ce975bb09eaa5",
+    "public_path": "provenance/original_code/work/round19/optimization/solve.py",
+    "public_sha256": "f182de3c8e4f0cdabfe716179a0c111b696c8cadf01cd83eb22ce975bb09eaa5"
+  },
+  {
+    "source": "work/round19/optimization/verify.py",
+    "source_sha256": "0ca5caf3c1a159af88d3bd1cb6b1e441f2248cc6f08a64aff358b76d28a7813c",
+    "public_path": "work/round19/optimization/verify.py",
+    "public_sha256": "0ca5caf3c1a159af88d3bd1cb6b1e441f2248cc6f08a64aff358b76d28a7813c"
+  },
+  {
+    "source": "work/round19/optimization/verify.py",
+    "source_sha256": "0ca5caf3c1a159af88d3bd1cb6b1e441f2248cc6f08a64aff358b76d28a7813c",
+    "public_path": "provenance/original_code/work/round19/optimization/verify.py",
+    "public_sha256": "0ca5caf3c1a159af88d3bd1cb6b1e441f2248cc6f08a64aff358b76d28a7813c"
+  },
+  {
+    "source": "work/round19/manuscript/total_targets.py",
+    "source_sha256": "0bdabd6acc6cb523b3990d77d18f7c42fd2caf518d494bae500f4832aeadd6f8",
+    "public_path": "work/round19/manuscript/total_targets.py",
+    "public_sha256": "560118ae2469f2fbca0a4289ebdf5e28d42dfb759e14cb3c563be9af5b89454d"
+  },
+  {
+    "source": "work/round19/manuscript/total_targets.py",
+    "source_sha256": "0bdabd6acc6cb523b3990d77d18f7c42fd2caf518d494bae500f4832aeadd6f8",
+    "public_path": "provenance/original_code/work/round19/manuscript/total_targets.py",
+    "public_sha256": "0bdabd6acc6cb523b3990d77d18f7c42fd2caf518d494bae500f4832aeadd6f8"
+  },
+  {
+    "source": "work/round19/manuscript/source_check.py",
+    "source_sha256": "84a4ade24b26780108e91a075d871c11c950987064f93de471bc2df585415ee6",
+    "public_path": "work/round19/manuscript/source_check.py",
+    "public_sha256": "84a4ade24b26780108e91a075d871c11c950987064f93de471bc2df585415ee6"
+  },
+  {
+    "source": "work/round19/manuscript/source_check.py",
+    "source_sha256": "84a4ade24b26780108e91a075d871c11c950987064f93de471bc2df585415ee6",
+    "public_path": "provenance/original_code/work/round19/manuscript/source_check.py",
+    "public_sha256": "84a4ade24b26780108e91a075d871c11c950987064f93de471bc2df585415ee6"
+  },
+  {
+    "source": "work/round19/optimization/plot_frontiers.py",
+    "source_sha256": "517e40581e69b9f57fbef54fd5c95a16d30eedadd534accb846338b73464d2dc",
+    "public_path": "work/round19/optimization/plot_frontiers.py",
+    "public_sha256": "517e40581e69b9f57fbef54fd5c95a16d30eedadd534accb846338b73464d2dc"
+  },
+  {
+    "source": "work/round19/optimization/plot_frontiers.py",
+    "source_sha256": "517e40581e69b9f57fbef54fd5c95a16d30eedadd534accb846338b73464d2dc",
+    "public_path": "provenance/original_code/work/round19/optimization/plot_frontiers.py",
+    "public_sha256": "517e40581e69b9f57fbef54fd5c95a16d30eedadd534accb846338b73464d2dc"
+  },
+  {
+    "source": "work/cities_revision_20261116/supplementary_analysis.py",
+    "source_sha256": "96cae638b24d2c5129a1bf0937b2a036cb0c21df253f98c3c7013d342c467d89",
+    "public_path": "work/cities_revision_20261116/supplementary_analysis.py",
+    "public_sha256": "96cae638b24d2c5129a1bf0937b2a036cb0c21df253f98c3c7013d342c467d89"
+  },
+  {
+    "source": "work/cities_revision_20261116/supplementary_analysis.py",
+    "source_sha256": "96cae638b24d2c5129a1bf0937b2a036cb0c21df253f98c3c7013d342c467d89",
+    "public_path": "provenance/original_code/work/cities_revision_20261116/supplementary_analysis.py",
+    "public_sha256": "96cae638b24d2c5129a1bf0937b2a036cb0c21df253f98c3c7013d342c467d89"
+  },
+  {
+    "source": "work/cities_revision_20261116/verify_supplementary_analysis.py",
+    "source_sha256": "410867140c1a5d6fae77bed41f7dfb81f33c49d73fcd36b2bd04384774bc2bc8",
+    "public_path": "work/cities_revision_20261116/verify_supplementary_analysis.py",
+    "public_sha256": "410867140c1a5d6fae77bed41f7dfb81f33c49d73fcd36b2bd04384774bc2bc8"
+  },
+  {
+    "source": "work/cities_revision_20261116/verify_supplementary_analysis.py",
+    "source_sha256": "410867140c1a5d6fae77bed41f7dfb81f33c49d73fcd36b2bd04384774bc2bc8",
+    "public_path": "provenance/original_code/work/cities_revision_20261116/verify_supplementary_analysis.py",
+    "public_sha256": "410867140c1a5d6fae77bed41f7dfb81f33c49d73fcd36b2bd04384774bc2bc8"
+  },
+  {
+    "source": "work/cities_revision_20261116/plot_supplementary_analysis.py",
+    "source_sha256": "b8ae1b728f662260e294af5e43ca13d0a4444e1b0dd709a460d662184a43d938",
+    "public_path": "work/cities_revision_20261116/plot_supplementary_analysis.py",
+    "public_sha256": "b8ae1b728f662260e294af5e43ca13d0a4444e1b0dd709a460d662184a43d938"
+  },
+  {
+    "source": "work/cities_revision_20261116/plot_supplementary_analysis.py",
+    "source_sha256": "b8ae1b728f662260e294af5e43ca13d0a4444e1b0dd709a460d662184a43d938",
+    "public_path": "provenance/original_code/work/cities_revision_20261116/plot_supplementary_analysis.py",
+    "public_sha256": "b8ae1b728f662260e294af5e43ca13d0a4444e1b0dd709a460d662184a43d938"
+  },
+  {
+    "source": "work/round19/routing/build_routes.py",
+    "source_sha256": "5b6b1393e679ce069cd20ed36ff957cff060c9750a4ce335320484e55873358a",
+    "public_path": "upstream/work/round19/routing/build_routes.py",
+    "public_sha256": "5b6b1393e679ce069cd20ed36ff957cff060c9750a4ce335320484e55873358a"
+  },
+  {
+    "source": "work/round19/routing/verify_saved_routes.py",
+    "source_sha256": "97a53f4c5fc2546f338230247901978a4e94b6d54c4cc2dd53c925671cc5335b",
+    "public_path": "upstream/work/round19/routing/verify_saved_routes.py",
+    "public_sha256": "97a53f4c5fc2546f338230247901978a4e94b6d54c4cc2dd53c925671cc5335b"
+  },
+  {
+    "source": "work/round19/routing/check_chain_coordinates.py",
+    "source_sha256": "2ecb438f3dd381184c3c7c542671f296b1ab574a75a94321d8e6443c3384eb77",
+    "public_path": "upstream/work/round19/routing/check_chain_coordinates.py",
+    "public_sha256": "2ecb438f3dd381184c3c7c542671f296b1ab574a75a94321d8e6443c3384eb77"
+  },
+  {
+    "source": "work/round19/venues/build_venues.py",
+    "source_sha256": "4efe0b3c98f9639457676330ceb6b387fff6d04a921a391cce793ea1b215761d",
+    "public_path": "upstream/work/round19/venues/build_venues.py",
+    "public_sha256": "4efe0b3c98f9639457676330ceb6b387fff6d04a921a391cce793ea1b215761d"
+  },
+  {
+    "source": "work/round19/venues/extract_pbf.py",
+    "source_sha256": "b4a52e5eeb37446a427963df0805160a40f85ce27f1a321436b5ae490580bd17",
+    "public_path": "upstream/work/round19/venues/extract_pbf.py",
+    "public_sha256": "b4a52e5eeb37446a427963df0805160a40f85ce27f1a321436b5ae490580bd17"
+  },
+  {
+    "source": "work/round19/venues/import_chain.py",
+    "source_sha256": "536a50ef17587e2c9269a95226cdc95beb59339b99216bf8d7df9d3da29efc47",
+    "public_path": "upstream/work/round19/venues/import_chain.py",
+    "public_sha256": "536a50ef17587e2c9269a95226cdc95beb59339b99216bf8d7df9d3da29efc47"
+  },
+  {
+    "source": "work/round18/population/full_circle.py",
+    "source_sha256": "2b3db95ec86f2368ec9a7a12d74352bed7cd9eca68fc415039965cf3ff90262d",
+    "public_path": "upstream/work/round18/population/full_circle.py",
+    "public_sha256": "2b3db95ec86f2368ec9a7a12d74352bed7cd9eca68fc415039965cf3ff90262d"
+  },
+  {
+    "source": "work/round17/population/full_circle.py",
+    "source_sha256": "117434555b4ba2c83a1c2778be3821166aceddcefe1c7ade22b571e8f81bffec",
+    "public_path": "upstream/work/round17/population/full_circle.py",
+    "public_sha256": "117434555b4ba2c83a1c2778be3821166aceddcefe1c7ade22b571e8f81bffec"
+  },
+  {
+    "source": "work/round13/population/build_weights.py",
+    "source_sha256": "bf4037623d0c38fa2b8cdfe92efd876d4f3e17b38feb27e9c49285f9aa3f31fb",
+    "public_path": "upstream/work/round13/population/build_weights.py",
+    "public_sha256": "bf4037623d0c38fa2b8cdfe92efd876d4f3e17b38feb27e9c49285f9aa3f31fb"
+  },
+  {
+    "source": "work/round13/meal/build_directory.py",
+    "source_sha256": "d0537181456fda274b1239c17aa44d0fa61d45e61459f9f9607076532ef31457",
+    "public_path": "upstream/work/round13/meal/build_directory.py",
+    "public_sha256": "d0537181456fda274b1239c17aa44d0fa61d45e61459f9f9607076532ef31457"
+  },
+  {
+    "source": "work/round13/meal/collect_national.cjs",
+    "source_sha256": "405caefaae698c81d63f79ae08b642933f8ee48579b9f0487a273b4993d178d6",
+    "public_path": "upstream/work/round13/meal/collect_national.cjs",
+    "public_sha256": "405caefaae698c81d63f79ae08b642933f8ee48579b9f0487a273b4993d178d6"
+  },
+  {
+    "source": "work/round13/meal/collect_focus.cjs",
+    "source_sha256": "b3c62e21bad3293aedbee42807135cc9f396fdc464ea98516c18add01d43767e",
+    "public_path": "upstream/work/round13/meal/collect_focus.cjs",
+    "public_sha256": "b3c62e21bad3293aedbee42807135cc9f396fdc464ea98516c18add01d43767e"
+  },
+  {
+    "source": "work/round14/activity/fetch_station_profiles.py",
+    "source_sha256": "417ba5c2e48d6954edffb918e086f66d5bd47421f0733cf5944b24fc1810ad5a",
+    "public_path": "upstream/work/round14/activity/fetch_station_profiles.py",
+    "public_sha256": "417ba5c2e48d6954edffb918e086f66d5bd47421f0733cf5944b24fc1810ad5a"
+  },
+  {
+    "source": "work/round15/review/fetch_public.py",
+    "source_sha256": "3384567a245bd2df349504065f49d2b54e52c70673429d378741bef88ec5b1af",
+    "public_path": "upstream/work/round15/review/fetch_public.py",
+    "public_sha256": "3384567a245bd2df349504065f49d2b54e52c70673429d378741bef88ec5b1af"
+  },
+  {
+    "source": "work/round4/code/macro_network.py",
+    "source_sha256": "e0e5d58bf9a8f62226bdc769804da960c403fccc264f1190d9bbdc5de5bd3909",
+    "public_path": "upstream/work/round4/code/macro_network.py",
+    "public_sha256": "e0e5d58bf9a8f62226bdc769804da960c403fccc264f1190d9bbdc5de5bd3909"
+  },
+  {
+    "source": "work/round13/population/source_manifest.json",
+    "source_sha256": "d3a37b41f6ab6e732947b34dffa8d60e2d138237a5556fd596ec162e8e589a10",
+    "public_path": "provenance/sources/source_manifest.json",
+    "public_sha256": "d3a37b41f6ab6e732947b34dffa8d60e2d138237a5556fd596ec162e8e589a10"
+  },
+  {
+    "source": "work/round13/population/figshare_record.json",
+    "source_sha256": "75b634d66268b089d65a076794406364f76a494a465462032d468f7cbc111bb3",
+    "public_path": "provenance/sources/figshare_record.json",
+    "public_sha256": "75b634d66268b089d65a076794406364f76a494a465462032d468f7cbc111bb3"
+  },
+  {
+    "source": "work/round2/raw/figshare_metadata.json",
+    "source_sha256": "07148f5e5dcbaa6dbedf0547097d58d05a8889aed512868ff0e2d35d6954ed6a",
+    "public_path": "provenance/sources/figshare_metadata.json",
+    "public_sha256": "07148f5e5dcbaa6dbedf0547097d58d05a8889aed512868ff0e2d35d6954ed6a"
+  },
+  {
+    "source": "work/round19/venues/osm_source.json",
+    "source_sha256": "d87a0d5874c508bcaea52eeb6d1f7d37df8eec6064a6ba62fc06931a08b84e28",
+    "public_path": "provenance/sources/osm_source.json",
+    "public_sha256": "d87a0d5874c508bcaea52eeb6d1f7d37df8eec6064a6ba62fc06931a08b84e28"
+  },
+  {
+    "source": "work/round19/venues/chain_source.json",
+    "source_sha256": "6ade92ecc69e5312698f5e154debbb85576b7178836f22b15dfda5f7f06821cf",
+    "public_path": "provenance/sources/chain_source.json",
+    "public_sha256": "6ade92ecc69e5312698f5e154debbb85576b7178836f22b15dfda5f7f06821cf"
+  },
+  {
+    "source": "work/round4/analysis/network_meta.json",
+    "source_sha256": "0b797b6baf334f9621e1bd7f1c2d36927f1e3cbc82de440b1ae655e445d86986",
+    "public_path": "provenance/sources/network_meta.json",
+    "public_sha256": "0b797b6baf334f9621e1bd7f1c2d36927f1e3cbc82de440b1ae655e445d86986"
+  },
+  {
+    "source": "work/round19/routing/routing_checks.json",
+    "source_sha256": "84310c5460b1973a51ef060cb5db636f4b329157c733da055367143af54bd710",
+    "public_path": "provenance/sources/routing_checks.json",
+    "public_sha256": "84310c5460b1973a51ef060cb5db636f4b329157c733da055367143af54bd710"
+  },
+  {
+    "source": "work/round19/routing/saved_routes_independent_check.json",
+    "source_sha256": "a6eb4a79eaed556967433acc1358d1fccb8a73bd5602dd1fb269cd78e1fc014b",
+    "public_path": "provenance/sources/saved_routes_independent_check.json",
+    "public_sha256": "a6eb4a79eaed556967433acc1358d1fccb8a73bd5602dd1fb269cd78e1fc014b"
+  },
+  {
+    "source": "work/round4/raw/roads_0_0_meta.json",
+    "source_sha256": "1484506f8bd6277eee1c6379489259b3129fd6cb9a28bf343b5eb39f2b8100c7",
+    "public_path": "provenance/sources/road_tiles/roads_0_0_meta.json",
+    "public_sha256": "1484506f8bd6277eee1c6379489259b3129fd6cb9a28bf343b5eb39f2b8100c7"
+  },
+  {
+    "source": "work/round4/raw/roads_0_1_meta.json",
+    "source_sha256": "849a665f9ec55dec7ca7e512a3a4ec701edf3e02c6a45c3ab08ef9d06fb87773",
+    "public_path": "provenance/sources/road_tiles/roads_0_1_meta.json",
+    "public_sha256": "849a665f9ec55dec7ca7e512a3a4ec701edf3e02c6a45c3ab08ef9d06fb87773"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_meta.json",
+    "source_sha256": "1e4c7d1064e10fc6173ce6cf610a7c8e798ccb0764f3cd015e822344dd95f708",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_meta.json",
+    "public_sha256": "1e4c7d1064e10fc6173ce6cf610a7c8e798ccb0764f3cd015e822344dd95f708"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part00_meta.json",
+    "source_sha256": "ff29be08503131755ead51de4a11d1a77916e30981e026162f298997d03385ba",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part00_meta.json",
+    "public_sha256": "ff29be08503131755ead51de4a11d1a77916e30981e026162f298997d03385ba"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part01_meta.json",
+    "source_sha256": "4413b9cc1ab60a19cdf9b2ced69f82a89b8a17d7c249469ac37d3a62df40a6cc",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part01_meta.json",
+    "public_sha256": "4413b9cc1ab60a19cdf9b2ced69f82a89b8a17d7c249469ac37d3a62df40a6cc"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part10_meta.json",
+    "source_sha256": "5236de6e3c8ecf3bf0a6fa66802799a6241e99892a21a47b86d5aa2031f292e4",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part10_meta.json",
+    "public_sha256": "5236de6e3c8ecf3bf0a6fa66802799a6241e99892a21a47b86d5aa2031f292e4"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part11_meta.json",
+    "source_sha256": "89dabf050d715d98547228f2ad6939529fdcfbf93f8ed09267b5c48fae3098ba",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part11_meta.json",
+    "public_sha256": "89dabf050d715d98547228f2ad6939529fdcfbf93f8ed09267b5c48fae3098ba"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_meta.json",
+    "source_sha256": "7aa17302d688457c418ee1a57cfd6ac400ff2516d910a51c2c5284e3fbebdab6",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_meta.json",
+    "public_sha256": "7aa17302d688457c418ee1a57cfd6ac400ff2516d910a51c2c5284e3fbebdab6"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part00_meta.json",
+    "source_sha256": "c767c353163a83ad42ffd9d2cf6f1730f12acd2d8f914c831ced72f028a14e42",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part00_meta.json",
+    "public_sha256": "c767c353163a83ad42ffd9d2cf6f1730f12acd2d8f914c831ced72f028a14e42"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part01_meta.json",
+    "source_sha256": "08fea0627fa4622a4ee4350be99050fe88a54c6fbb81c3e275603e245da42b10",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part01_meta.json",
+    "public_sha256": "08fea0627fa4622a4ee4350be99050fe88a54c6fbb81c3e275603e245da42b10"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part10_meta.json",
+    "source_sha256": "693e5ed1bc4fe83f4937fcecbe4b3f36e69bc9e4618d9fec79c3220e953413b5",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part10_meta.json",
+    "public_sha256": "693e5ed1bc4fe83f4937fcecbe4b3f36e69bc9e4618d9fec79c3220e953413b5"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part11_meta.json",
+    "source_sha256": "60842ca12e3eb68f467e28378d348958cb1f9dba7e18f80f847af4738b753afe",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part11_meta.json",
+    "public_sha256": "60842ca12e3eb68f467e28378d348958cb1f9dba7e18f80f847af4738b753afe"
+  },
+  {
+    "source": "work/round4/raw/roads_2_0_meta.json",
+    "source_sha256": "16a98857ff65efc175355067d33e7c861b04b5944e8e01f9325632cbf64611e8",
+    "public_path": "provenance/sources/road_tiles/roads_2_0_meta.json",
+    "public_sha256": "16a98857ff65efc175355067d33e7c861b04b5944e8e01f9325632cbf64611e8"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_meta.json",
+    "source_sha256": "c4e99ddc7309d3103accb399ccdf63149c485c5f0b77818a25ddf4aff8ddf1ff",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_meta.json",
+    "public_sha256": "c4e99ddc7309d3103accb399ccdf63149c485c5f0b77818a25ddf4aff8ddf1ff"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part00_meta.json",
+    "source_sha256": "f53c838056c4879a03468042ce7f7c5d70141a8e2ea43529a19d0f5bfb52f19b",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part00_meta.json",
+    "public_sha256": "f53c838056c4879a03468042ce7f7c5d70141a8e2ea43529a19d0f5bfb52f19b"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part01_meta.json",
+    "source_sha256": "6d048b316d9427838f694303a54c80d394aec8f11f7c893cf739e2dc9049b454",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part01_meta.json",
+    "public_sha256": "6d048b316d9427838f694303a54c80d394aec8f11f7c893cf739e2dc9049b454"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part10_meta.json",
+    "source_sha256": "4111801459d2c5495942377cf3e0e214c9b5d92f1291ecbbfbeb002f493787c2",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part10_meta.json",
+    "public_sha256": "4111801459d2c5495942377cf3e0e214c9b5d92f1291ecbbfbeb002f493787c2"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part11_meta.json",
+    "source_sha256": "d35dedee09bce13f6392ec9becaac747eb0e4133af94301d4f7c67de3d7699c0",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part11_meta.json",
+    "public_sha256": "d35dedee09bce13f6392ec9becaac747eb0e4133af94301d4f7c67de3d7699c0"
+  },
+  {
+    "source": "work/round4/raw/roads_0_0.overpass",
+    "source_sha256": "9ef48810cb82793efed78b73dbbf5d11ee46c127ee1f53d08e69d64c3f8b1176",
+    "public_path": "provenance/sources/road_tiles/roads_0_0.overpass",
+    "public_sha256": "9ef48810cb82793efed78b73dbbf5d11ee46c127ee1f53d08e69d64c3f8b1176"
+  },
+  {
+    "source": "work/round4/raw/roads_0_1.overpass",
+    "source_sha256": "7649b086c49b855df66d4b2fac64cb078e3a7f1e295591eec1bffafcd06a1368",
+    "public_path": "provenance/sources/road_tiles/roads_0_1.overpass",
+    "public_sha256": "7649b086c49b855df66d4b2fac64cb078e3a7f1e295591eec1bffafcd06a1368"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0.overpass",
+    "source_sha256": "79b0356478c5cd67df10f4bf23c9cae4eae6f628c38ee3c99b0884efaef2c7ff",
+    "public_path": "provenance/sources/road_tiles/roads_1_0.overpass",
+    "public_sha256": "79b0356478c5cd67df10f4bf23c9cae4eae6f628c38ee3c99b0884efaef2c7ff"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part00.overpass",
+    "source_sha256": "466bbbbe1ceff299a1e8b84d63358b623bd11d575672fa1fafa171f51c5444a8",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part00.overpass",
+    "public_sha256": "466bbbbe1ceff299a1e8b84d63358b623bd11d575672fa1fafa171f51c5444a8"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part01.overpass",
+    "source_sha256": "78bae1827064f79d0254e84b4834cbbe4dbd2c24f14d2b89f86063a11eec6ed8",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part01.overpass",
+    "public_sha256": "78bae1827064f79d0254e84b4834cbbe4dbd2c24f14d2b89f86063a11eec6ed8"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part10.overpass",
+    "source_sha256": "5faaca206a3ab7cdc32c9a7ec6194ecf393b3a71d6190d2e6ec7ee614c9d4718",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part10.overpass",
+    "public_sha256": "5faaca206a3ab7cdc32c9a7ec6194ecf393b3a71d6190d2e6ec7ee614c9d4718"
+  },
+  {
+    "source": "work/round4/raw/roads_1_0_part11.overpass",
+    "source_sha256": "95b553bbb0de20236edf304487d8a9a9adfeb2e759a441691cc6e243076c736a",
+    "public_path": "provenance/sources/road_tiles/roads_1_0_part11.overpass",
+    "public_sha256": "95b553bbb0de20236edf304487d8a9a9adfeb2e759a441691cc6e243076c736a"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part00.overpass",
+    "source_sha256": "4c9f3fed0d326d04ad8744fd966a2296fc9ca28c2e129847b3b3b13b381ea083",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part00.overpass",
+    "public_sha256": "4c9f3fed0d326d04ad8744fd966a2296fc9ca28c2e129847b3b3b13b381ea083"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part01.overpass",
+    "source_sha256": "7e8dd097a596bf44eb3878ba948f1737ced018b2ad5daf597fb19c014818fbc7",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part01.overpass",
+    "public_sha256": "7e8dd097a596bf44eb3878ba948f1737ced018b2ad5daf597fb19c014818fbc7"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part10.overpass",
+    "source_sha256": "4fa03f95a0a10a099d5b4006c6974610c453a7d21060ece2fd31474f7af1a1eb",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part10.overpass",
+    "public_sha256": "4fa03f95a0a10a099d5b4006c6974610c453a7d21060ece2fd31474f7af1a1eb"
+  },
+  {
+    "source": "work/round4/raw/roads_1_1_part11.overpass",
+    "source_sha256": "4d52d39c88123db8547b72ef23b5dc4f1d81665ad8748049fd10fca800361bf1",
+    "public_path": "provenance/sources/road_tiles/roads_1_1_part11.overpass",
+    "public_sha256": "4d52d39c88123db8547b72ef23b5dc4f1d81665ad8748049fd10fca800361bf1"
+  },
+  {
+    "source": "work/round4/raw/roads_2_0.overpass",
+    "source_sha256": "b85b36498dfb5ac18bec397acb9ffe27b09e1d9d552aa9bf1de0fc5d5a23ceeb",
+    "public_path": "provenance/sources/road_tiles/roads_2_0.overpass",
+    "public_sha256": "b85b36498dfb5ac18bec397acb9ffe27b09e1d9d552aa9bf1de0fc5d5a23ceeb"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1.overpass",
+    "source_sha256": "575bf2bf723fbdf929076ea618fa8426aa50b626cc15873c2da73cda963739b7",
+    "public_path": "provenance/sources/road_tiles/roads_2_1.overpass",
+    "public_sha256": "575bf2bf723fbdf929076ea618fa8426aa50b626cc15873c2da73cda963739b7"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part00.overpass",
+    "source_sha256": "25bfb27d2a56595776b35e72125c674a8b4d891973a3f94221f6771712ffc77c",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part00.overpass",
+    "public_sha256": "25bfb27d2a56595776b35e72125c674a8b4d891973a3f94221f6771712ffc77c"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part01.overpass",
+    "source_sha256": "f94fde7aeea57aa27b609e2cf6339a0f2292b70de812baf57ece30abc4a8ec3a",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part01.overpass",
+    "public_sha256": "f94fde7aeea57aa27b609e2cf6339a0f2292b70de812baf57ece30abc4a8ec3a"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part10.overpass",
+    "source_sha256": "f5d19c50cf9c7c5f8af8d61af141626d3ecb7945709ce2b67cb92641555ddc35",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part10.overpass",
+    "public_sha256": "f5d19c50cf9c7c5f8af8d61af141626d3ecb7945709ce2b67cb92641555ddc35"
+  },
+  {
+    "source": "work/round4/raw/roads_2_1_part11.overpass",
+    "source_sha256": "5c4152581fda6e026113554f0a811a18f92142ffae41c76834f3cf59a24f612c",
+    "public_path": "provenance/sources/road_tiles/roads_2_1_part11.overpass",
+    "public_sha256": "5c4152581fda6e026113554f0a811a18f92142ffae41c76834f3cf59a24f612c"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig1_study_area.pdf",
+    "source_sha256": "1c323ff5b9bd5f63ea28e4cabe362eeeb92d7eebff6159f5d1fba1f7952b449a",
+    "public_path": "figures/fig1_study_area.pdf",
+    "public_sha256": "1c323ff5b9bd5f63ea28e4cabe362eeeb92d7eebff6159f5d1fba1f7952b449a"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig2_budget_frontiers.pdf",
+    "source_sha256": "1e9f60da1f37519503e172ed810dcd12d4c132eeaf1fe0366f51730d062e3579",
+    "public_path": "figures/fig2_budget_frontiers.pdf",
+    "public_sha256": "1e9f60da1f37519503e172ed810dcd12d4c132eeaf1fe0366f51730d062e3579"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig3_meal_target.pdf",
+    "source_sha256": "6638aaae0b0c98d64f1ce3bb0c3e6205c65072651f3800dde88c2a2ca80ced5a",
+    "public_path": "figures/fig3_meal_target.pdf",
+    "public_sha256": "6638aaae0b0c98d64f1ce3bb0c3e6205c65072651f3800dde88c2a2ca80ced5a"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig4_spatial_distribution.pdf",
+    "source_sha256": "1bfb678d675c37b30bde6735a6c15979f7a62b40b23310ba33daab573a99fbc5",
+    "public_path": "figures/fig4_spatial_distribution.pdf",
+    "public_sha256": "1bfb678d675c37b30bde6735a6c15979f7a62b40b23310ba33daab573a99fbc5"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/figS1_citywide_walking_access.pdf",
+    "source_sha256": "83693b92338a5a4c4ff15e534ad39b1cb81819f1060987e065f47c4e47649349",
+    "public_path": "figures/figS1_citywide_walking_access.pdf",
+    "public_sha256": "83693b92338a5a4c4ff15e534ad39b1cb81819f1060987e065f47c4e47649349"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/figS2_one_site_locations.pdf",
+    "source_sha256": "48f1e50053e25aa23e6ddbcbed877a01f75efbaeaca1d4e8fb3b7b79c1ae929d",
+    "public_path": "figures/figS2_one_site_locations.pdf",
+    "public_sha256": "48f1e50053e25aa23e6ddbcbed877a01f75efbaeaca1d4e8fb3b7b79c1ae929d"
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/figures/Fig5_activity_coverage_guarantees.pdf",
+    "source_sha256": "4d322996f42abb38db49d72af731d3e3dd6a04d2863700ca8d41a90745ea9089",
+    "public_path": "figures/Fig5_activity_coverage_guarantees.pdf",
+    "public_sha256": "4d322996f42abb38db49d72af731d3e3dd6a04d2863700ca8d41a90745ea9089"
+  },
+  {
+    "source": "outputs/Cities_补充计算与图表/figures/FigS3_meal_site_and_walking_sensitivity.pdf",
+    "source_sha256": "5401a81d8caa6c8006120e6a4df75503106cc754094f64577fb42aa0c615e6eb",
+    "public_path": "figures/FigS3_meal_site_and_walking_sensitivity.pdf",
+    "public_sha256": "5401a81d8caa6c8006120e6a4df75503106cc754094f64577fb42aa0c615e6eb"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/tables/table1.csv",
+    "source_sha256": "11a10150105ef3494edff12bfc5a8cf965652c499f7b51d318cf7fec1be80f11",
+    "public_path": "data/manuscript_tables/table1.csv",
+    "public_sha256": "11a10150105ef3494edff12bfc5a8cf965652c499f7b51d318cf7fec1be80f11"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/tables/table2.csv",
+    "source_sha256": "0be3b79f4cebf6edfc485b7221169bad85055a79fec281e87975a743eb05e162",
+    "public_path": "data/manuscript_tables/table2.csv",
+    "public_sha256": "0be3b79f4cebf6edfc485b7221169bad85055a79fec281e87975a743eb05e162"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/tables/table3.csv",
+    "source_sha256": "ba7b0499a2a55eb8cca30300fb755a8fdd879d9fd29f05de25d955826bdb1932",
+    "public_path": "data/manuscript_tables/table3.csv",
+    "public_sha256": "ba7b0499a2a55eb8cca30300fb755a8fdd879d9fd29f05de25d955826bdb1932"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/tables/tableS1.csv",
+    "source_sha256": "58742d91bff62332ab9076f96b36abaeb280419fc888a623b2e251fb088d0731",
+    "public_path": "data/manuscript_tables/tableS1.csv",
+    "public_sha256": "58742d91bff62332ab9076f96b36abaeb280419fc888a623b2e251fb088d0731"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/tables/tableS3.csv",
+    "source_sha256": "a180d5dcc4bd772b4e166281de88853ee8fcee040edde98932cee4765afdffaa",
+    "public_path": "data/manuscript_tables/tableS3.csv",
+    "public_sha256": "a180d5dcc4bd772b4e166281de88853ee8fcee040edde98932cee4765afdffaa"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig3_meal_target_data.csv",
+    "source_sha256": "2ab4cb527fa7cb51f4fa6b612f823721ed0dd3dbc72b2c8f0e4f3edd3924fc56",
+    "public_path": "data/figure_data/fig3_meal_target_data.csv",
+    "public_sha256": "2ab4cb527fa7cb51f4fa6b612f823721ed0dd3dbc72b2c8f0e4f3edd3924fc56"
+  },
+  {
+    "source": "outputs/长沙养老研究_Cities投稿图表/fig4_spatial_distribution_data.csv",
+    "source_sha256": "aa0f4d32957fb6695cbe2388db515c18533ec3d93b7e4da80ecf1ba272b5eb03",
+    "public_path": "data/figure_data/fig4_spatial_distribution_data.csv",
+    "public_sha256": "aa0f4d32957fb6695cbe2388db515c18533ec3d93b7e4da80ecf1ba272b5eb03"
+  },
+  {
+    "source": "outputs/长沙养老研究_第十五轮/tables/circle_access_qa.json",
+    "source_sha256": "594b8eef1ede5afa86c4f582943a85d5b42d13d5fae5d202dd667a7ec5f4a7a9",
+    "public_path": "provenance/circle_access_qa.json",
+    "public_sha256": "594b8eef1ede5afa86c4f582943a85d5b42d13d5fae5d202dd667a7ec5f4a7a9"
+  },
+  {
+    "source": "work/round3/code/run_analysis.py",
+    "source_sha256": "625d492a5056b6be87671a73f2923b7047609dd6680b68104ca4101779e72caf",
+    "public_path": "upstream/work/round3/code/run_analysis.py",
+    "public_sha256": "625d492a5056b6be87671a73f2923b7047609dd6680b68104ca4101779e72caf"
+  }
+]

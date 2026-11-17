@@ -1,0 +1,25 @@
+{
+  "endpoint": "https://download.geofabrik.de/asia/china/hunan-latest.osm.pbf",
+  "provider": "Geofabrik / OpenStreetMap contributors",
+  "timestamp": "2026-11-11T21:22:47+00:00",
+  "bbox": [
+    112.79574736882266,
+    27.996212333424676,
+    113.12449736461461,
+    28.37991124645522
+  ],
+  "classes": [
+    "restaurant",
+    "fast_food",
+    "food_court",
+    "community_centre",
+    "arts_centre",
+    "library",
+    "social_centre"
+  ],
+  "n": 598,
+  "pbf_sha256": "af7cb4da441210e1ef8ec4507b0c482c88886945cdcd01aad11f736f268c7371",
+  "extract_sha256": "165de5a4af3f55d4d3d6bfd9eb0140e3a75cedde8ebf3a9931c8d46132fc5216",
+  "license": "ODbL 1.0",
+  "retrieved_utc": "2026-11-12T09:21:54.409368+00:00"
+}
