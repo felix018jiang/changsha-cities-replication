@@ -1,4 +1,4 @@
-"""Reproduce manuscript-v2 analyses offline from location-redacted frozen distances."""
+"""Reproduce the Changsha Chinese full manuscript analyses from frozen distances."""
 import argparse
 import csv
 import importlib.util
@@ -9,6 +9,9 @@ import shutil
 import subprocess
 import sys
 from pathlib import Path
+
+from check_manuscript import main as check_manuscript
+from manuscript_results import circle_results, supplement_tables
 
 ROOT = Path(__file__).resolve().parent
 PRIMARY = ROOT / 'outputs/长沙养老研究_第十九轮/tables'
@@ -75,13 +78,25 @@ def main():
         comparisons[name]=compare(PRIMARY/name,primary/name)
     for name in ['activity_plans.csv','activity_circles.csv','walking_thresholds.csv','meal_site_removals.csv']:
         comparisons[name]=compare(SUPPLEMENT/name,supp/name)
+    print('Recomputing map populations and supplementary manuscript tables', flush=True)
+    circle_table, lituo_route = circle_results(primary)
+    figures_data = destination / 'figure_data'
+    figures_data.mkdir(exist_ok=True)
+    circle_file = figures_data / 'circle_figure_data.csv'
+    circle_table.to_csv(circle_file, index_label='case_id', float_format='%.7f')
+    comparisons[circle_file.name] = compare(ROOT / 'data/figure_data' / circle_file.name, circle_file)
+    tables_dir = destination / 'manuscript_tables'
+    tables_dir.mkdir(exist_ok=True)
+    for name, table in supplement_tables(primary, supp).items():
+        table.to_csv(tables_dir / name, index=False, float_format='%.1f')
+        comparisons[name] = compare(ROOT / 'data/manuscript_tables' / name, tables_dir / name)
     if not args.skip_figures:
         subprocess.run([sys.executable,str(ROOT/'work/cities_revision_20261116/plot_supplementary_analysis.py'),
                         '--tables',str(supp),'--output',str(destination/'figures')],cwd=ROOT,check=True)
         plot=module('frontier_plot','work/round19/optimization/plot_frontiers.py')
         plot.TABLES=primary;plot.ROUND=destination;plot.main()
     import numpy,scipy
-    manuscript=module('manuscript_check','check_manuscript.py').main()
+    manuscript = check_manuscript(primary, supp, spatial=(circle_table, lituo_route))
     report=dict(status='passed',python=platform.python_version(),numpy=numpy.__version__,scipy=scipy.__version__,
                 supplementary_independent_checks=verified,archived_result_comparisons=comparisons,
                 manuscript_checks=manuscript)

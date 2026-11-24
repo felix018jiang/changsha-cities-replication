@@ -1,6 +1,6 @@
 # Data sources, retrieval dates and access
 
-These dates describe the inputs actually used in manuscript v2. Later visits to a provider's site do not change the frozen analysis vintage. UTC timestamps are retained where collection logs recorded them. No unrecorded timestamp or permissions agreement is inferred.
+The Chinese full manuscript uses the same historical source snapshots as v2.0.0. The new maps use those origin and venue locations, exclusive circle polygons and walking segments. Input-file checksums and numeric exports are listed in the [spatial input record](provenance/spatial_inputs.json). UTC timestamps below come from the original collection logs.
 
 | Source | Version / observation vintage | Retrieval in this project | Retrieval channel and sharing status |
 |---|---|---|---|

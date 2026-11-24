@@ -1,0 +1,66 @@
+{
+  "crs": "EPSG:32649",
+  "threshold_m": 720,
+  "registry": "strict",
+  "generator": "upstream/make_diagnostic_maps.py",
+  "spatial_archive_files": [
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/routing_origins.csv",
+      "sha256": "7f1c352a3628ec2bd67604882d22572baaaf1f009c83cdaf1407025dbc4bbe98"
+    },
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/routing_candidates.csv",
+      "sha256": "6a39d56ff1ee92ac47711a5eb45cc618018a13c1a9e86fa9bfb34bf0c4c498a5"
+    },
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/routing_reachable_od.csv",
+      "sha256": "7b73ed43a2b7ef310eeb7f2142cc50fff739fdecc860aa61288e29e6e2d43ac3"
+    },
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/siting_ceiling.csv",
+      "sha256": "ef37733e6625a6bc0afb6a877957fb694866917f16320635ce78577e319385a5"
+    },
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/siting_pooled_distribution.csv",
+      "sha256": "1164afcd9e9fb54ec9366d08959084007e0115797d98dd5bbbdff7a18bd74f20"
+    },
+    {
+      "path": "outputs/长沙养老研究_第十九轮/tables/siting_plan_sites.csv",
+      "sha256": "520e459d90d132f5631b6cfe80afd6e7287a5976ec9e6f796123c5f08b94775e"
+    },
+    {
+      "path": "work/round4/spatial/exclusive_circle_zones.gpkg",
+      "sha256": "066cba83c705c73db3accd9e1b62a3f28f9f895857099769dc1b74b40c774991"
+    },
+    {
+      "path": "work/round4/analysis/macro_network.gpkg",
+      "sha256": "9a3db78f916e2e8e8ca5a7381e7eb414727986de8eebb0822c73356de381a764"
+    }
+  ],
+  "public_circle_names": "data/figure_data/fig4_spatial_distribution_data.csv",
+  "derived_inputs": [
+    {
+      "path": "data/activity_origin_distances.csv",
+      "rows": 3831,
+      "lituo_routes": 20
+    },
+    {
+      "path": "data/offsite_circle_membership.csv",
+      "rows": 179
+    }
+  ],
+  "circle_summary": "data/figure_data/circle_figure_data.csv",
+  "verification": {
+    "circle_summary_matches_spatial_run": true,
+    "circle_membership_matches_original_audit": true,
+    "original_membership_audit_sha256": "df0902c1e02b8e452968c820e4e7dee03090c24e94a407fc848840b30875c9d2",
+    "rebuilt_pngs_match_embedded_docx_images": [
+      "4C–E",
+      "S2C–D"
+    ],
+    "rebuilt_pdfs_match_except_creation_date": [
+      "4C–E",
+      "S2C–D"
+    ]
+  }
+}

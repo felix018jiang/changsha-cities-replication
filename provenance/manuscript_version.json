@@ -1,9 +1,79 @@
 {
-  "manuscript": "Changsha_Cities_Expanded_Full_Manuscript_v2.docx",
-  "sha256": "91aaffb494e657c6fa13548965a7d80cebde6e5a53d7b016c6f95302efa84777",
-  "title": "Using neighborhood venues to expand walking access to meals and daytime activities for older residents in Changsha",
-  "release_version": "v2.0.0",
+  "manuscript": "Changsha_Cities_Full_Manuscript_中文完整稿.docx",
+  "sha256": "89d736e320aaa8e5356892c6b2b6120684302e031ef0e44988194a533e34024b",
+  "title": "From Spatial Vision to Implementation: Governance Rules, Siting Trade-offs, and Equity Commitments in Using Neighborhood Venues to Expand Older Adults' Walking Access to Meals and Daytime Activities in Changsha",
+  "title_zh": "从空间愿景到落地履约：利用社区既有场所拓展长沙老年人助餐与日间活动步行可达性的治理规则与选址权衡",
+  "language": "zh-CN",
+  "release_version": "v2.1.0",
   "main_analysis": "round19",
   "supplementary_analysis": "cities_revision_20261116",
-  "manuscript_uploaded": false
+  "spatial_diagnostics": [
+    "Figure 4C–E",
+    "Figure S2C–D"
+  ],
+  "manuscript_uploaded": false,
+  "figures": [
+    {
+      "figure": "1",
+      "pdf": "figures/fig1_study_area.pdf",
+      "docx_image": "word/media/image1.png",
+      "png_sha256": "ecfa8352814a27ac412a8cf7a22d3679ab91a75f722048c133c3760c4a4e3622"
+    },
+    {
+      "figure": "2",
+      "pdf": "figures/fig2_budget_frontiers.pdf",
+      "docx_image": "word/media/image2.png",
+      "png_sha256": "8282dbab83f1aefe3040ffd2569ab438c4748a6ef5945a1ad0ee5eccf7b7e4bc"
+    },
+    {
+      "figure": "3",
+      "pdf": "figures/fig3_meal_target.pdf",
+      "docx_image": "word/media/image3.png",
+      "png_sha256": "a439a5881c7e348eb9356249a39ee484ff82049758adf7100044b7a4dac8cf73"
+    },
+    {
+      "figure": "4A–B",
+      "pdf": "figures/fig4_spatial_distribution.pdf",
+      "docx_image": "word/media/image4.png",
+      "png_sha256": "951a86665c8990d91fd725140c957791232ffabc48a13ef68429007e48a5ce45"
+    },
+    {
+      "figure": "4C–E",
+      "pdf": "figures/fig4c-e_meal_plan_and_remaining_gaps.pdf",
+      "docx_image": "word/media/image5.png",
+      "png_sha256": "fb9fe9959603863772f1ab5226b73396fdca7c8ce7c35b086161f5d37493e0aa",
+      "png": "figures/fig4c-e_meal_plan_and_remaining_gaps.png"
+    },
+    {
+      "figure": "5",
+      "pdf": "figures/Fig5_activity_coverage_guarantees.pdf",
+      "docx_image": "word/media/image6.png",
+      "png_sha256": "54b1df5b7056677e33a8a943d8fd76d82979ff309d97ae232e4dc93870c941fb"
+    },
+    {
+      "figure": "S1",
+      "pdf": "figures/figS1_citywide_walking_access.pdf",
+      "docx_image": "word/media/image7.png",
+      "png_sha256": "8159e4be46c746c652eed432b3508304ed4d01f5918088d323eef7263d3c35dc"
+    },
+    {
+      "figure": "S2A–B",
+      "pdf": "figures/figS2_one_site_locations.pdf",
+      "docx_image": "word/media/image8.png",
+      "png_sha256": "cb306f057e0ad2cfc10649a5b05e176720039e4385af89414cc2e9a863997b17"
+    },
+    {
+      "figure": "S2C–D",
+      "pdf": "figures/figS2c-d_activity_radius_and_network.pdf",
+      "docx_image": "word/media/image9.png",
+      "png_sha256": "b5770710c5edd74f1688ffc445789df9d78c876e5ad1636f06a1b5937db3ab1b",
+      "png": "figures/figS2c-d_activity_radius_and_network.png"
+    },
+    {
+      "figure": "S3",
+      "pdf": "figures/FigS3_meal_site_and_walking_sensitivity.pdf",
+      "docx_image": "word/media/image10.png",
+      "png_sha256": "074a95e84d0c320fd1be8075734d152c883242e8755dff19b350e931793db8fa"
+    }
+  ]
 }

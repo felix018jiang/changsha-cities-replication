@@ -656,5 +656,71 @@
     "source_sha256": "625d492a5056b6be87671a73f2923b7047609dd6680b68104ca4101779e72caf",
     "public_path": "upstream/work/round3/code/run_analysis.py",
     "public_sha256": "625d492a5056b6be87671a73f2923b7047609dd6680b68104ca4101779e72caf"
+  },
+  {
+    "source": "Changsha_Cities_Full_Manuscript_中文完整稿.docx#word/media/image5.png",
+    "source_sha256": "fb9fe9959603863772f1ab5226b73396fdca7c8ce7c35b086161f5d37493e0aa",
+    "public_path": "figures/fig4c-e_meal_plan_and_remaining_gaps.png",
+    "public_sha256": "fb9fe9959603863772f1ab5226b73396fdca7c8ce7c35b086161f5d37493e0aa"
+  },
+  {
+    "source": "meal_plan_and_remaining_gaps.pdf",
+    "source_sha256": "b41cf16e50c79d2385c81a6c512244383c6771ca9e27efaeed0e0db389660611",
+    "public_path": "figures/fig4c-e_meal_plan_and_remaining_gaps.pdf",
+    "public_sha256": "b41cf16e50c79d2385c81a6c512244383c6771ca9e27efaeed0e0db389660611",
+    "source_kind": "Companion vector export of the matching manuscript PNG",
+    "figure": "4C–E"
+  },
+  {
+    "source": "Changsha_Cities_Full_Manuscript_中文完整稿.docx#word/media/image9.png",
+    "source_sha256": "b5770710c5edd74f1688ffc445789df9d78c876e5ad1636f06a1b5937db3ab1b",
+    "public_path": "figures/figS2c-d_activity_radius_and_network.png",
+    "public_sha256": "b5770710c5edd74f1688ffc445789df9d78c876e5ad1636f06a1b5937db3ab1b"
+  },
+  {
+    "source": "activity_radius_and_network.pdf",
+    "source_sha256": "acab174daacdf892b87f6e994f249f991ba314e2795c990ecf7b738681b02fc6",
+    "public_path": "figures/figS2c-d_activity_radius_and_network.pdf",
+    "public_sha256": "acab174daacdf892b87f6e994f249f991ba314e2795c990ecf7b738681b02fc6",
+    "source_kind": "Companion vector export of the matching manuscript PNG",
+    "figure": "S2C–D"
+  },
+  {
+    "source": "outputs/Cities_地图方法示例/circle_figure_data.csv",
+    "source_sha256": "56fcfbcd95b06b043f49ee68e8685675d1399692700ca3a5cc23d9dc3039158f",
+    "public_path": "data/figure_data/circle_figure_data.csv",
+    "public_sha256": "56fcfbcd95b06b043f49ee68e8685675d1399692700ca3a5cc23d9dc3039158f",
+    "rows": 17
+  },
+  {
+    "source": "Changsha_Cities_Full_Manuscript_中文完整稿.docx",
+    "source_sha256": "89d736e320aaa8e5356892c6b2b6120684302e031ef0e44988194a533e34024b",
+    "public_path": "data/manuscript_tables/tableS2.csv",
+    "public_sha256": "f0bdee703c58d95b98edef31f14b7f010e90eb3cbb2d137c21249ba8505b78e6",
+    "manuscript_table": "S2",
+    "rows": 12
+  },
+  {
+    "source": "Changsha_Cities_Full_Manuscript_中文完整稿.docx",
+    "source_sha256": "89d736e320aaa8e5356892c6b2b6120684302e031ef0e44988194a533e34024b",
+    "public_path": "data/manuscript_tables/tableS4.csv",
+    "public_sha256": "fbbd7c92177e6c048cbb01bab0143b5899e349e7b33ba964b63b3f9614147cd9",
+    "manuscript_table": "S4",
+    "rows": 4
+  },
+  {
+    "source": "Changsha_Cities_Full_Manuscript_中文完整稿.docx",
+    "source_sha256": "89d736e320aaa8e5356892c6b2b6120684302e031ef0e44988194a533e34024b",
+    "public_path": "data/manuscript_tables/tableS5.csv",
+    "public_sha256": "394d27da310f85d077a6856346be211f4f6566d7e11534d9f4e6a9697c0e0377",
+    "manuscript_table": "S5",
+    "rows": 3
+  },
+  {
+    "source": "maps_continued.py",
+    "source_sha256": "efdc5ea2289c4d4c28ac8ec659a27c81c31ce3717ac36f5802839f62b47e300f",
+    "public_path": "upstream/make_diagnostic_maps.py",
+    "public_sha256": "ff4a66f3e86f467f1b0cf4018bc78b561c13cd29604e0c3e0687cf0b80da133c",
+    "adaptation": "Portable spatial archive and output paths, bundled routing functions, distance and circle-membership exports"
   }
 ]

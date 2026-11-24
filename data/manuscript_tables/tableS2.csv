@@ -1,0 +1,13 @@
+menu,case_id,site_id
+stations,WC-JSQ-1,site:59b2fdf0a965105b
+stations,FR-XH-1,site:a183a62bf3c3ee60
+stations,FR-XH-1,site:b5828d26cf5d171e
+stations,WC-GTL-21,site:c52d31fe2b128bb3
+stations,KF-HS-1,site:e7763e1cf2fc0656
+stations,YH-JWZ-3,site:ef7a61934c8dc192
+stations,YH-JWZ-3,site:fd21e3197dda60a5
+operator,YH-JWZ-3,chain:bawan:142170042b7bd3
+operator,FR-XH-1,site:b5828d26cf5d171e
+operator,KF-HS-1,site:e7763e1cf2fc0656
+all,YH-JWZ-3,chain:bawan:142170042b7bd3
+all,YL-GSL-3,osm:node:7071192121

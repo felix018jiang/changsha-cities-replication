@@ -1,14 +1,14 @@
 cff-version: 1.2.0
 message: "Please cite this versioned replication package together with the source datasets and the associated manuscript when published."
-title: "Changsha older-adult services: manuscript-v2 replication data and code"
+title: "Walking access to meals and daytime activities for older residents in Changsha: replication data and code"
 type: software
-version: 2.0.0
-date-released: 2026-11-17
+version: 2.1.0
+date-released: 2026-11-24
 url: "https://github.com/felix018jiang/changsha-cities-replication"
 repository-code: "https://github.com/felix018jiang/changsha-cities-replication"
 authors:
   - name: "Changsha Cities replication contributors"
-abstract: "Frozen-distance replication package for venue eligibility, walking accessibility and circle-level protection analyses in 16 Changsha living circles."
+abstract: "Frozen-distance replication for service siting, meal access gaps, straight-line and walking-network activity access, and circle-level coverage guarantees in 16 Changsha living circles."
 keywords:
   - older adults
   - walking accessibility

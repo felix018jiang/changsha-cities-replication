@@ -1,6 +1,14 @@
-# Data availability statement
+# Data and code availability
 
-The derived site-level and living-circle-level results, location-redacted frozen replication inputs, and analysis code for manuscript version 2 are publicly available at https://github.com/felix018jiang/changsha-cities-replication, release **v2.0.0** (https://github.com/felix018jiang/changsha-cities-replication/releases/tag/v2.0.0). The release includes the primary siting analysis and the individual-site exclusion, walking-speed and circle-level protection analyses, together with source metadata, checksums, a data dictionary and independent numerical checks. It reproduces the optimization results from archived walking distances; rebuilding source-address matches, the street graph and geographic basemaps requires the separately obtained spatial records. No repository DOI has been assigned.
+## 中文稿可用声明
+
+本研究的分析代码、去除详细地址与坐标的复现数据、逐点和逐圈结果，以及图表已存入 GitHub 仓库的 v2.1.0 版本。该版本包含图 4C–E 的助餐剩余缺口分解、图 S2C–D 的直线与步行路网对照、两组地图的制图脚本，以及表 1–3 和表 S1–S5 的公开数据。表 S2 以稳定点位编号标识代表方案。读者可利用随附的人口权重、候选点和距离表离线复算。重绘地理底图需另行取得历史空间数据。[复现数据与代码 v2.1.0](https://github.com/felix018jiang/changsha-cities-replication/releases/tag/v2.1.0)
+
+## English manuscript statement
+
+The analysis code, location-redacted frozen inputs, site- and circle-level results and manuscript figures are publicly archived in version 2.1.0. The release includes the meal-gap decomposition in Figure 4C–E, the straight-line and walking-network comparison in Figure S2C–D, the geographic plotting code, and the public data for Tables 1–3 and S1–S5. Stable site IDs identify the representative plans in Table S2. The numerical results can be reproduced offline from the supplied populations, eligibility and distance tables. Redrawing the geographic basemaps requires the historical spatial records. [Replication data and code v2.1.0](https://github.com/felix018jiang/changsha-cities-replication/releases/tag/v2.1.0)
+
+## Source access
 
 The 2020 age-stratified census population grid was obtained from ASPECT version 1 (https://doi.org/10.6084/m9.figshare.27323106.v1; retrieved 8 November 2026). The 2023 community-facility source was Fu's version-1 Changsha community public service facility POI dataset (https://doi.org/10.6084/m9.figshare.28468649.v1; acquired 3 November 2026; a separate UTC request timestamp was not recorded). Its metadata describe a 2023 Amap API compilation. Both Figshare records declare CC BY 4.0. The national meal-service registry was retrieved from the National Elderly Care Service Information Platform (https://yanglao.mca.gov.cn/#/index/foodAreaList) on 8 November 2026. Municipal institution records were retrieved from the Changsha Smart Elderly Care Map (https://ylfw.cszhmz.cn/psp/pc/yldt_1692694093000/index.html) on 3 November 2026, with station and service-item checks on 8–9 November 2026. The Bawan operator directory was retrieved from https://bawan.dexinmiaosheng.cn/official/store.html and its two continuation pages on 12 November 2026. The road network used OpenStreetMap tiles retrieved through Overpass on 3 November 2026; dining and community-venue records used the Geofabrik Hunan snapshot timestamped 11 November 2026 at 21:22:47 UTC, retrieved on 12 November 2026. OpenStreetMap data are © OpenStreetMap contributors and available under ODbL 1.0.
 

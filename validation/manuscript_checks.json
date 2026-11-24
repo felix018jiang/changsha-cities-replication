@@ -36,5 +36,37 @@
     "covered_G": 26.08330084764092,
     "all_four": 5.736413754326216,
     "missing_3_or_4": 41.6873142450218
+  },
+  "spatial_diagnostics": {
+    "meal_gap_population": 19564.44579796355,
+    "meal_ten_site_people": 2537.121487565032,
+    "meal_other_only_people": 1645.2459683096038,
+    "meal_beyond_sites_people": 15382.078342088917,
+    "meal_zero_gain_circles": 9,
+    "activity_gap_population": 20101.56657552905,
+    "activity_direct_people": 9109.159824632497,
+    "activity_network_people": 3086.5312590021476,
+    "activity_direct_pct": 45.315671245850424,
+    "activity_network_pct": 15.35468018079538,
+    "activity_beyond_pct": 84.64531981920463,
+    "activity_circles_without_candidates": [
+      "Jinshanqiao",
+      "Nantuo",
+      "Yueliangdao",
+      "Yuelu"
+    ],
+    "lituo": {
+      "radius_origins": 20,
+      "radius_population": 80.50373418751201,
+      "walkable_origins": 0,
+      "nearest_origin": "ASPECT_YH-LT-1_324_389",
+      "direct_m": 314.8495846,
+      "route_m": 1209.5049091
+    },
+    "offsite_venues": {
+      "eligible": 179,
+      "effective": 80,
+      "effective_outside_circle": 55
+    }
   }
 }
